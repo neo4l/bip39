@@ -1,8 +1,8 @@
-# bip39-rs
-
-[![Build Status](https://travis-ci.org/infincia/bip39-rs.svg?branch=master)](https://travis-ci.org/infincia/bip39-rs)
+# bip39
 
 A Rust implementation of [BIP0039](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
+
+Fork from https://github.com/infincia/bip39-rs, Thanks to all the contributors!
 
 ## Changes
 
